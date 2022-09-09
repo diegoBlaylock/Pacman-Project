@@ -1,0 +1,68 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Real Pacman
+</name>
+</assembly>
+<members>
+<member name="T:Real_Pacman.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Real_Pacman.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Real_Pacman.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Real_Pacman.My.Resources.Resources.cherry">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Real_Pacman.My.Resources.Resources.l0_sprite_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Real_Pacman.My.Resources.Resources.New_Piskel_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Real_Pacman.My.Resources.Resources.paclives">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Real_Pacman.My.Resources.Resources.ppellet">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Real_Pacman.My.Resources.Resources.sprite_05">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:Real_Pacman.Form1.readSheet(System.String,System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ Reads in a Sprite Sheet and returns an array of images
+ </summary>
+ <param name="loc"></param>
+ <param name="width"></param>
+ <param name="height"></param>
+ <param name="rows"></param>
+ <param name="columns"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
